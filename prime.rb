@@ -1,6 +1,6 @@
 # Add  code here!
 def prime?(number)
-  puts (1..number).to_a
+  puts (1..number.abs).to_a
 end
 
 
